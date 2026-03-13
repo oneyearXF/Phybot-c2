@@ -1,0 +1,3 @@
+[submodule "remote_control/Joystick_LCM"]
+	path = remote_control/Joystick_LCM
+	url = https://github.com/oneyearXF/Phybot-c2.git
